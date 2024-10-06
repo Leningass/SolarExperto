@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "392776885977",
+    "project_id": "solarexperto-38d09",
+    "storage_bucket": "solarexperto-38d09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392776885977:android:c0202c40d05649724980c8",
+        "android_client_info": {
+          "package_name": "com.services.solarexperto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392776885977-nk5pki1aseha0ucfgodaa65bfk9m379j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpz4XYtzVAyMw09cymXU-kb7wEQpAUUNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392776885977-nk5pki1aseha0ucfgodaa65bfk9m379j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "392776885977-p6ev0pki0r3g22ovhtp1h7uhfijkcvss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.services.solarexperto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

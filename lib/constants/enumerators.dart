@@ -1,0 +1,11 @@
+enum DisplayedPage {
+  HOME,
+  ANALYSIS,
+  MONITOR,
+  CUSTOMERS,
+  AGENDA,
+  INVOICES,
+  SALE,
+  SETTINGS,
+  SETTINPASSWORDS
+}
